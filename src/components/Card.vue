@@ -38,6 +38,6 @@
   }
 
   p{
-    color: rgb(2, 23, 40);
+    color: #030617;
   }
   </style>

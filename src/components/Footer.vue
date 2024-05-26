@@ -39,4 +39,8 @@
   h5 {
     color: rgb(18, 18, 18);
   }
+
+  div {
+    color: black;
+  }
   </style>
