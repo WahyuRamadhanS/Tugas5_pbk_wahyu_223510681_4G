@@ -31,4 +31,12 @@
   footer {
     box-shadow: 0 -4px 6px rgba(0, 0, 0, 0.1);
   }
+
+  p {
+    color: rgb(19, 19, 19);
+  }
+
+  h5 {
+    color: rgb(18, 18, 18);
+  }
   </style>

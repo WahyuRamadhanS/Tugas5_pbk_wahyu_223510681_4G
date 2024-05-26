@@ -36,7 +36,7 @@
         <InfoCard
           title="Variant Parfume"
           description="Ada 1000+ Local & International Variants."
-          imgUrl="https://images.samsung.com/id/galaxy-tab-s9/feature/galaxy-tab-s9-visual-pc.jpg" 
+          imgUrl="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjnglsC8ycTIQXE665vRTkafpFd4Gj0UHn1NBalYtMOA&s" 
         />
       </div>
     </div>
@@ -107,18 +107,18 @@ h2 {
 
 .card,
 .info-card {
-  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  transition: transform 0.3s ease, box-shadow 0.8s ease;
 }
 
 .card:hover,
 .info-card:hover {
   transform: translateY(-10px);
-  box-shadow: 0 5px 20px rgba(0, 0, 0, 0.1);
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.596)
 }
 
 hr {
   border: none;
-  border-top: 2px solid #ddd;
+  border-top: 2px solid #04081b;
 }
 
 .tittle {

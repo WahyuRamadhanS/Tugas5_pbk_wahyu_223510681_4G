@@ -22,12 +22,14 @@
   <style scoped>
   .info-card {
     margin-bottom: 20px; /* Tambahkan margin bawah untuk memberi jarak antar InfoCard */
+    color: #02111e;
   }
   
   .info-card img {
     margin-top: 15px;
     height: 150px;
     object-fit: cover;
-    border-radius: 8px;
+    border-radius: 10px;
   }
+  
   </style>

@@ -27,7 +27,7 @@
   
   <style scoped>
   .card-img-top {
-    height: 200px;
+    height: 250px;
     object-fit: cover;
   }
   
@@ -35,5 +35,9 @@
     display: flex;
     flex-direction: column;
     justify-content: space-between;
+  }
+
+  p{
+    color: rgb(2, 23, 40);
   }
   </style>
